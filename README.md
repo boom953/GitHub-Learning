@@ -16,3 +16,15 @@
 - Python
 - Oracle
 - AI
+
+
+## 我的开发环境
+
+- 操作系统：Windows 11
+- 代码编辑器：Cursor
+- 版本控制：Git
+- 代码托管：GitHub
+
+## 我的学习记录
+
+这是我第一次通过 Cursor 修改本地项目，并使用 GitHub Desktop 管理代码版本。
