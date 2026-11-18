@@ -28,3 +28,15 @@
 ## 我的学习记录
 
 这是我第一次通过 Cursor 修改本地项目，并使用 GitHub Desktop 管理代码版本。
+
+## Git Branch 实战记录
+
+当前分支：feature/branch-practice
+
+本次学习内容：
+
+1. 创建 Git 分支
+2. 在独立分支修改文件
+3. 学习 Commit
+4. 学习 Push
+5. 学习分支合并
