@@ -57,3 +57,8 @@
 模拟同事新增功能 B。
 
 本次新增：main 分支独立提交，用于练习 Git Rebase。
+## Rebase 实战：feature 分支新增内容
+
+模拟自己新增功能 C。
+
+本次新增：feature 分支独立提交，用于练习 Git Rebase。
